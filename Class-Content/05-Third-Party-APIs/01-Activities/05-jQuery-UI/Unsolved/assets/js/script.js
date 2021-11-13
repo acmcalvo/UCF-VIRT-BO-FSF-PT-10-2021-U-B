@@ -61,7 +61,7 @@ $(function() {
   $('#datepicker').datepicker({
     changeMonth: true,
     changeYear: true
-  });
+    });
 });
 
 // TODO: Add comments to describe the functionality of this jQuery UI interaction
